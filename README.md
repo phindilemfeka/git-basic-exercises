@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 KXCVJHNAXJIHCVXDJVBJKXCBV
 XJVCBN
 XKCNXJKZ
@@ -9,3 +10,6 @@ XKCNXJKZ
 121x
 /./././../
 PHINDILE MFEKA
+=======
+booya
+>>>>>>> history

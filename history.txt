@@ -1,0 +1,450 @@
+    1  ls
+    2  Music
+    3  clear
+    4  clear35467890-[H/-+
+    5  pwd
+    6  ls
+    7  ls -a
+    8  pwd
+    9  ls
+   10  ls -a
+   11  clear
+   12  cd home
+   13  ls
+   14  pwd
+   15  cd desktop
+   16  cd home
+   17  ls -a
+   18  cd computer
+   19  cd phindile
+   20  ls
+   21  clear
+   22  cd documents
+   23  cd Documents
+   24  ls
+   25  pwd
+   26  cd Documents
+   27  clear
+   28  ls
+   29  pwd
+   30  cd -a
+   31  ls -a
+   32  INTELLIG
+   33  ls
+   34  clear
+   35  pwd
+   36  ls
+   37  ls-a
+   38  ls -a
+   39  cd home
+   40  ls
+   41  cd home
+   42  ls
+   43  clear
+   44  cd Documents
+   45  pwd
+   46  ls
+   47  PWD
+   48  pwd
+   49  sudo su 
+   50  sudo apt-get update && sudo apt-get up
+   51  sudo apt-get dist-upgrade
+   52  ls
+   53  pwd
+   54  workspace
+   55  clear
+   56  ls
+   57  pwd
+   58  mkdir workspace
+   59  ls
+   60  cd workspace/
+   61  ls
+   62  pwd
+   63  clear
+   64  ls
+   65  pwd
+   66  sudo apt-get update && sudo apt-get up
+   67  sudo apt-get dist-upgrade
+   68  sudo apt-get install git terminator openssh-server gitk tree
+   69  sudo apt-get install zsh
+   70  ls
+   71  ls
+   72  pwd
+   73  mkdir
+   74  mkdir workspace
+   75  cd workspace/
+   76  ls
+   77  pwd
+   78  sudo touch.txt
+   79  sudo touvh touch.txt
+   80  ls
+   81  pwd
+   82  mkdir workspace
+   83  clear
+   84  ls
+   85  pwd
+   86  clear
+   87  ls
+   88  pwd
+   89  mkdir workspace
+   90  cd workspace/
+   91  ls
+   92  pwd
+   93  mk
+   94  clear
+   95  ls
+   96  pwd
+   97  mkdir workspace
+   98  ls
+   99  pwd
+  100  cat README.md
+  101  touch READNE.me
+  102  touch README
+  103  cd home
+  104  cd
+  105  touch README
+  106  cd README
+  107  touch README.txt
+  108  touch README
+  109  cp README CHANGELOG
+  110  CLEAR
+  111  clear
+  112  ls
+  113  pwd
+  114  mkdir workspace
+  115  cd workspace/
+  116  pwd
+  117  cd
+  118  touch README
+  119  cd README
+  120  cf README
+  121  cp README CHANGELOG
+  122  cd
+  123  exit
+  124  kill
+  125  exit
+  126  man
+  127  google
+  128  man
+  129  ls
+  130  man
+  131  pwd
+  132  commands
+  133  shutdown
+  134  c
+  135  shut down -c
+  136  shut down-c
+  137  shut down
+  138  sudo
+  139  sudo apt-get
+  140  sudo apt-get up
+  141  sudo apt-getup
+  142  sudo apt-getUP
+  143  sudo apt-getUp
+  144  sudo apt-get
+  145  date
+  146  get gmail
+  147  df
+  148  cd workspace
+  149  mkdir workspace
+  150  cd workspace/
+  151  delete
+  152  dd
+  153  workspace
+  154  cd workspace/
+  155  dd
+  156  df
+  157  hostname
+  158  ps
+  159  quota
+  160  sudo apt intall quota
+  161  touch exercise.md
+  162  cd
+  163  cd /tmp
+  164  ls
+  165  cd
+  166  mkdir workspace
+  167  cd workspace/
+  168  touch exercise.md
+  169  mv exercise.md/tmp
+  170  mv exercise.md /tmp
+  171  cd tmp
+  172  cd
+  173  tmp
+  174  cd tmp
+  175  cd/tmp
+  176  cd /tmp
+  177  ls
+  178  cd
+  179  cd /workspace
+  180  cd
+  181  cd /workspace
+  182  history 
+  183  cd /workspace
+  184  cd/ workspace/
+  185  df
+  186  cd /phindile /workspace
+  187  cd/ workspace
+  188  ls
+  189  workspace
+  190  pwd workspace
+  191  cd /wo
+  192  CD
+  193  cd
+  194  clear
+  195  cd
+  196  workspace
+  197  touch workspace
+  198  ls
+  199  cd
+  200  cd /workspace
+  201  cd /phindile
+  202  cd
+  203  pwd
+  204  mkdir workspace
+  205  cd /home /phindile /workspace
+  206  cd /home/phindile/workspace
+  207  rm /home/phindile workspace
+  208  exit
+  209  mkdir workspace
+  210  touch umuzi.md
+  211  touch recruits.md
+  212  touch corhot.md
+  213  cd /home/phindile/workspace
+  214  mv
+  215  mv umuzi.md/phindile
+  216  umuzi.md/home/phindile
+  217  mkdir workspace
+  218  cd /workspace
+  219  cd /home/phindile/workspace/
+  220  touch umuzi.md
+  221  touch recruits.md
+  222  touch cohort.md
+  223  ls
+  224  nano umuzi.md
+  225  ls
+  226  nano umuzi.md
+  227  cat umuzi.md 
+  228  nano cohort.md
+  229  cat cohort.md
+  230  nano recruits.md
+  231  cat recruits.md
+  232  nano 
+  233  nano
+  234  touch summary.md
+  235  cat umuzi.md recruits.md cohort.md>summary.md
+  236  cat summary.md
+  237  cat >>summary.md
+  238  cat summary.md
+  239  nano summary.md
+  240  fg
+  241  nano summary.md
+  242  cat summary.md
+  243  locate cohort.md
+  244  cd
+  245  locate umuzi.md
+  246  find umuzi.md
+  247  cd'
+  248  cd
+  249  cd /home/phindile/workspace
+  250  find umuzi.md
+  251  locate umuzi.md
+  252  shut down
+  253  sudo shut down
+  254  sudo power off
+  255  sudo shut down
+  256  Shutdown-h
+  257  Shutdown
+  258  shutdown
+  259  -c
+  260  shutdown-h
+  261  shutdown
+  262  touch search_result.md
+  263  locate umuzi.md
+  264  locate umuzi.md -n 1
+  265  locate umuzi.md -n 20
+  266  locate umuzi.md -c
+  267  phindile
+  268  home
+  269  ls
+  270  cd
+  271  cd /home/phindile,workspace
+  272  cd /home/phindile/workspace
+  273  ls
+  274  find umuzi m.d
+  275  search umuzi.md
+  276  find umuzi.md
+  277  cd
+  278  home/phindile
+  279  find home/phindile/workspace
+  280  find -name umuzi.md
+  281  nano
+  282  cd
+  283  cd /home/phindile/documents
+  284  cd home/phindile/documents
+  285  cd /home/phindile/Documents
+  286  touch pad.md
+  287  cd /home/phindile/Deskop
+  288  cd /home/phindile/Desktop
+  289  touch work
+  290  cp /home/phindile/Documents,pad.md Desktop
+  291  cp pad.md Deskop
+  292  cd /home/phindile/Documents
+  293  cp pad.md/Desktop
+  294  cp /pad.md/Desktop
+  295  cp pad.md /Desktop
+  296  cd /home/phindile/Desktop
+  297  cp pad.md
+  298  cp /pad.md/to/Desktop
+  299  cp pad.md
+  300  mv pad.md
+  301  cp pad.md /
+  302  cp pad.mad Desktop
+  303  cp pad.md pad_copy.md
+  304  cp pad.md/hoe/phindile/Documents pad_copy.md
+  305  mv pad.md pad_copy.md
+  306  mv home/phindile/Documents/{pad,pad_copy}.md
+  307  mv home/phindile/Documents/ {pad,pad_copy}.md
+  308  mv home/phindile/Documents/ {pad.md,pad_copy.md}
+  309  cp home/phindile/Documents/ {pad.md,pad_copy.md}
+  310  cp home/phindile/Documents/ pad.md,pad_copy.md
+  311  cp home/phindile/Documents/pad.md  pad.md,pad_copy.md}
+  312  locate updatedb
+  313  cd-
+  314  cd -
+  315  locate updatedb
+  316  touch pad_copy.md
+  317  locate pad_copy.md
+  318  cd
+  319  locate pad_copy.md
+  320  cd home/phindile/desktop
+  321  cd /home/phindile/Desktop
+  322  locate pad_copy.md
+  323  locate updatedb
+  324  locate pad_copy.md
+  325  clear
+  326  locate pad_copy.md
+  327  cd
+  328  locate umuzi.md
+  329  locate pad_copy.md
+  330  locate recruits.md
+  331  locate updatedb
+  332  locate pad_copy.md
+  333  find -pdf
+  334  find ~*.pdf
+  335  find ~ *.pdf
+  336  find / -type f -name "*.pdf"
+  337  Permission denied
+  338  find ~ .*pddf
+  339  find ~ *.pdf
+  340  find umuzi.md
+  341  find /home/phindile/workspace -type f -name umuzi.md > search_result.md 
+  342  cat search_result.md 
+  343  nano
+  344  nano search_result.md 
+  345  find ~ *.pdf
+  346  find ~ "*.pdf"
+  347  find ~ *.conf
+  348  find ~ .*md
+  349  find ~ -type f -name "*.\pdf"
+  350  find -type f -name workspace
+  351  ls
+  352  find -type f -name "*.pdf"
+  353  find -type f -name "*.pdf" >workspace
+  354  find -type f -name "*.pdf" >Desktop
+  355  find -type f -name "*.pdf" >umuzi.md
+  356  cat umuzi.md
+  357  nano
+  358  cat my_bio.md 
+  359  mkdir my_files
+  360  ls
+  361  mv my_bio.md /home/phindile/my_files
+  362  cd /home/phindile/my_files
+  363  ls
+  364  locate pad_copy.md
+  365  exit
+  366  cd /home/phindile/git-basic-exercises/
+  367  ls -a
+  368  rm git init
+  369  git status
+  370  mkdir git-basic-exercises
+  371  cd /home/phindile/git-basic-exercises/
+  372  ls -a
+  373  git init
+  374  git status
+  375  touch README.md
+  376  ls -a
+  377  git status
+  378  git log
+  379  git add README.md 
+  380  git status
+  381  git rm --cached README.md 
+  382  git status
+  383  git add README.md 
+  384  git status
+  385  git reset HEAD README.md
+  386  git commit -m "initial commit"
+  387  git config --global user.email "phindileportia20@gmail.com
+  388  git config --global user.email "phindileportia20@gmail.com"
+  389  git commit -m "initial commit"
+  390  git config --global user.email "phindileportia20@gmail.com"
+  391  git config --global user.name "Phindile"
+  392  git commit -m "initial commit"
+  393  git log
+  394  q
+  395  sudo apt install python-q-text-as-data
+  396  Q
+  397  q
+  398  -q
+  399  exit
+  400  pwd
+  401  cd /home/phindile/git-basic-exercises/
+  402  nano README.md 
+  403  cat README.md 
+  404  git status
+  405  git add
+  406  second commit
+  407  git commit -m "second commit"
+  408  nano README.md 
+  409  cat README.md 
+  410  git commit -m "third commit"
+  411  git log
+  412  git add README.md 
+  413  git log
+  414  nano README.md 
+  415  git status
+  416  git commit -m "second commit"
+  417  git log
+  418  nano READ
+  419  nano README.md 
+  420  git add README.md 
+  421  git commit -m "third commit"
+  422  git log
+  423  q
+  424  git checkout 27294d0c617482b2c0eb0741c8d13a9553b0154a
+  425  cat README.md 
+  426  git checkout master
+  427  cat README.md 
+  428  git branch
+  429  git branch milkshake-flavours
+  430  git branch
+  431  git checkout milkshake-flavours
+  432  git branch
+  433  git checkout master
+  434  git branch
+  435  git checkout milkshake-flavours
+  436  git branch
+  437  nano milkshake-flavours
+  438  git status
+  439  nano milkshake-flavours
+  440  git status
+  441  git add milkshake-flavours.md
+  442  git status
+  443  git commit -m "added initial flavours":
+  444  git log
+  445  git checkout master
+  446  git branch
+  447  git branch history
+  448  git checkout history
+  449  git log
+  450  history > history.txt
